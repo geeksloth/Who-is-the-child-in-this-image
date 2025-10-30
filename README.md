@@ -1,6 +1,9 @@
 # Who-is-the-child-in-this-image
 Who is the child in this image? How did he end up here? Does he truly exist, or is it something else entirely?
 
+[![en](https://img.shields.io/badge/lang-EN-red.svg)](https://github.com/geeksloth/Who-is-the-child-in-this-image/blob/main/README.md)
+[![th](https://img.shields.io/badge/lang-TH-blue.svg)](https://github.com/geeksloth/Who-is-the-child-in-this-image/blob/main/README-TH.md)
+
 ![Child's face that appeared in the experiment](static/figure1-180-degree-rotated.jpg)
 
 On October 30th, 2025, at midnight, I embarked on an experiment to manipulate the phase properties of an image’s spectrum. I converted the spatial-domain image to the frequency-domain and distorted specific properties of the spectrum, particularly the phase. Then, I transformed the manipulated spectrum back into the normal space-time dimension.
